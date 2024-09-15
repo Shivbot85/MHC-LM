@@ -39,4 +39,4 @@ To set up the environment for this project, clone this repository and install th
 ```bash
 git clone https://github.com/Shivbot85/MHC-LM.git
 cd MHC-LM
-pip install -r requirements.txt
+pip install -r Requirements.txt
