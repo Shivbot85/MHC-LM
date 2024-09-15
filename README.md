@@ -37,6 +37,6 @@ The data for this project is sourced from [NetMHCpan](http://www.cbs.dtu.dk/serv
 To set up the environment for this project, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/mhc-peptide-binding.git
-cd mhc-peptide-binding
+git clone https://github.com/Shivbot85/MHC-LM.git
+cd MHC-LM
 pip install -r requirements.txt
