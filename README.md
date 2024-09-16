@@ -43,21 +43,8 @@ Username - Shivaskar
 ## Run instructions 
 Running Instructions
 Before running any code, ensure all data files are placed in a folder named data within your Google Colab or local environment.
-
-Prepare the Data:
-Upload your dataset to the data folder in Google Colab before running the code.
-Run Fine-Tuning with Low-Rank Adaptation (LoRA):
-Start by fine-tuning the ESM2 model using Low-Rank Adaptation.
-Load the data and execute the LoRA fine-tuning script:
-Run Fine-Tuning with Contrastive Learning:
-Once LoRA fine-tuning is complete, proceed to fine-tuning the ESM2 model using Contrastive Learning.
-Run Fine-Tuning with Transfer Learning:
-After Contrastive Learning, apply Transfer Learning to the ESM2 model.
-Visualize the Results:
-After running the fine-tuning techniques, visualize the results by passing the models and their output to the result visualization script:
-bash
-Run Domain Adaptation:
-Finally, execute the domain adaptation step. Ensure that the model has been pre-trained on domain-specific data before running this step:
+1. Run Finetuning code
+2. Run Domain Adaptation code 
 
 ```bash
 git clone https://github.com/Shivbot85/MHC-LM.git
